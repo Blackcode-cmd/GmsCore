@@ -1,5 +1,6 @@
 # microG Services
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
 [![Build status](https://github.com/microg/GmsCore/actions/workflows/build.yml/badge.svg)](https://github.com/microg/GmsCore/actions/workflows/build.yml)
 <a href=TRANSLATION.md>
 <img src="https://hosted.weblate.org/widget/microg/svg-badge.svg" alt="Translation status" />
